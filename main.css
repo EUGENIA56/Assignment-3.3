@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* width: 1440px; */
+    background-color: hsl(212, 45%, 89%);
+}
+
+#container{
+    background-color: #fff;
+    width: 20%;
+    height: 67vh;
+    margin-left: 40%;
+    margin-top: 8%;
+    border-radius: 15px;
+
+}
+
+#qrimg{
+    background-image: url(./qr-code-component-main/images/image-qr-code.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    height: 41vh;
+    border-radius: 20px;
+    margin-left: 4.5%;
+    /* background-position-y: 15px; */
+    /* padding-top: 10px; */
+    /* overflow: hidden; */
+    
+}
+
+
+h2{
+    font-weight: 700;
+    font-size: 110%;
+    color: hsl(218, 44%, 22%);
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+p{
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+#p1{
+    text-align: center;
+    margin-top: -1%;
+    margin-right: 12%;
+}
